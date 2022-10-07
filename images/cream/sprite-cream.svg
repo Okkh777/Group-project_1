@@ -1,0 +1,18 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-facebook" viewBox="0 0 32 32">
+<path d="M31.5 16.343c0-8.563-6.938-15.5-15.5-15.5s-15.5 6.938-15.5 15.5c0 7.75 5.625 14.188 13.063 15.312v-10.812h-3.938v-4.5h3.938v-3.375c0-3.875 2.313-6.063 5.812-6.063 1.75 0 3.5 0.313 3.5 0.313v3.813h-1.937c-1.938 0-2.562 1.187-2.562 2.438v2.875h4.313l-0.688 4.5h-3.625v10.812c7.437-1.125 13.125-7.562 13.125-15.312z"></path>
+</symbol>
+<symbol id="icon-send" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M32 0l-32 18 10.227 3.788 15.773-14.788-11.998 16.186 0.010 0.004-0.012-0.004v8.814l5.735-6.691 7.265 2.691 5-28z"></path>
+</symbol>
+<symbol id="icon-burger" viewBox="0 0 32 32">
+<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M6 10h20"></path>
+<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M6 16h20"></path>
+<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M6 22h20"></path>
+</symbol>
+<symbol id="icon-arrow-hero" viewBox="0 0 82 32">
+<path fill="#FCFCFC" style="fill: var(--color1, #FCFCFC)" d="M81.414 17.414c0.781-0.781 0.781-2.047 0-2.828l-12.728-12.728c-0.781-0.781-2.047-0.781-2.828 0s-0.781 2.047 0 2.828l11.314 11.314-11.314 11.314c-0.781 0.781-0.781 2.047 0 2.828s2.047 0.781 2.828 0l12.728-12.728zM0 18h80v-4h-80v4z"></path>
+</symbol>
+</defs>
+</svg>
